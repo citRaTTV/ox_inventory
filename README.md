@@ -1,6 +1,7 @@
 # ox_inventory w/ QBCore support
 
-A complete inventory system for FiveM, implementing items, weapons, shops, and more without any strict framework dependency.
+A complete inventory system for FiveM, implementing items, weapons, shops, and more without any strict framework dependency. This version is maintained to keep QBCore compatibility for those who need it.
+Thanks to the [overextended team](https://github.com/overextended) for their great work!
 
 ![](https://img.shields.io/github/downloads/overextended/ox_inventory/total?logo=github)
 ![](https://img.shields.io/github/downloads/overextended/ox_inventory/latest/total?logo=github)
@@ -13,7 +14,7 @@ https://overextended.dev/ox_inventory
 
 ## 💾 Download
 
-https://github.com/overextended/ox_inventory/releases/latest/download/ox_inventory.zip
+https://github.com/citRaTTV/ox_inventory/releases/latest/download/ox_inventory.zip
 
 ## Supported frameworks
 
