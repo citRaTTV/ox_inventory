@@ -42,6 +42,8 @@ Citizen.CreateThreadNow(function()
         playerColumn = 'citizenid'
         vehicleTable = 'player_vehicles'
         vehicleColumn = 'id'
+    else
+        return
     end
 
     for k, v in pairs(Query) do
